@@ -3,7 +3,7 @@
 require "circumference"
 require "test/unit"
 
-# ruby -Ilib   tc_circumference.rb
+# $ ruby -Ilib   tc_circumference.rb
 
 class TestCircumference < Test::Unit::TestCase
  

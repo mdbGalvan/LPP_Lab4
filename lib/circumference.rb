@@ -1,6 +1,5 @@
 #File: circumference.rb
 
-
 # Circunferencia centrada en el origen (0, 0)
 class Circumference
   

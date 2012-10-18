@@ -1,6 +1,10 @@
+
 # Backup Files
 *.swp
 *~
 
 # Executes Files
 bin/
+
+# Others
+fix_repo.sh
