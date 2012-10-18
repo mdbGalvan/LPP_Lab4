@@ -1,0 +1,6 @@
+# Backup Files
+*.swp
+*~
+
+# Executes Files
+bin/
