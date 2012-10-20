@@ -26,8 +26,8 @@ class TestCircumference < Test::Unit::TestCase
 	assert_raise( RuntimeError, "Negative Argument" ) { @circle.radio(-1) }
   end
  
-  def test_failure
-	assert_in_delta(0.5, @circle.radio(1), 0.0001, "Radius doesn't work" )
-  end
+#  def test_failure
+#	assert_in_delta(0.5, @circle.radio(1), 0.0001, "Radius doesn't work" )
+#  end
  
 end
